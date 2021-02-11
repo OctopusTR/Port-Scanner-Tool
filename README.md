@@ -1,6 +1,11 @@
 # PortScanner
  Simple Port Scanner Tool
 
+## [+] Install
+```
+git clone https://github.com/OctopusTR/PortScanner && cd PortScanner
+pip3 install -r requirements.txt
+```
 ## [+] Usage 
 ```python3
 ┌──(root㉿octopus)-[~]
