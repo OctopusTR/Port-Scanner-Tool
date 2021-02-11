@@ -3,7 +3,7 @@
 
 ## [+] Install
 ```
-git clone https://github.com/OctopusTR/PortScanner && cd PortScanner
+git clone https://github.com/OctopusTR/Port-Scanner-Tool && cd Port-Scanner-Tool
 pip3 install -r requirements.txt
 ```
 ## [+] Usage 
