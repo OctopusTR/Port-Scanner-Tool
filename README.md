@@ -1,4 +1,4 @@
-# Port-Scanner
+# Port-Scanner-Tool
  Simple Port Scanner Tool
 
 ## [+] Install
