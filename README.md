@@ -3,7 +3,7 @@
 
 ## Requirements
 
-**IPy==1.1**<html>\n</html>
+**IPy==1.1**<html><br></html>
 **termcolor==1.1.0**
 
 ## [+] Install
