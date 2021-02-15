@@ -1,6 +1,11 @@
 # Port-Scanner-Tool
  Simple Port Scanner Tool
 
+## Requirements
+**IPy==1.1**
+
+**termcolor==1.1.0**
+
 ## [+] Install
 ```
 git clone https://github.com/OctopusTR/Port-Scanner-Tool && cd Port-Scanner-Tool
