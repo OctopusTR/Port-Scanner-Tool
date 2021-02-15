@@ -2,8 +2,8 @@
  Simple Port Scanner Tool
 
 ## Requirements
-**IPy==1.1**<html><br></html>
-**termcolor==1.1.0**
+IPy==1.1<html><br></html>
+termcolor==1.1.0
 
 ## [+] Install
 ```
