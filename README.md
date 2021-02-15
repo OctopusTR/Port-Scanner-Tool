@@ -3,7 +3,7 @@
 
 ## Requirements
 
-**IPy==1.1**
+**IPy==1.1,**
 **termcolor==1.1.0**
 
 ## [+] Install
